@@ -56,8 +56,7 @@
 
 .margin-top-50 {
   margin-top: 50px;}
-  
-  
+
   
 /*_________Table__________*/
 table {
@@ -172,8 +171,6 @@ label {
 .form-group {
   height: 170px;}  
 
-
-
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
@@ -201,7 +198,6 @@ label {
   border-color: rgb(0, 8, 90);
   background-color: rgb(0, 5, 20, 0.9);
 }
-
 
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 786px) {
